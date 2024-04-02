@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "title": "Producto de Ejemplo",
+      "description": "Este es un producto de muestra para propósitos de prueba.",
+      "code": "PROD001",
+      "price": 29.99,
+      "status": true,
+      "stock": 100,
+      "category": "Electrónicos",
+      "thumbnails": [
+        "path/to/image1.jpg",
+        "path/to/image2.jpg",
+        "path/to/image3.jpg"
+      ]
+    }
+  ]
+  
